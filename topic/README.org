@@ -1,12 +1,12 @@
 * Project Readme
 
 * List group members here
- - name 1
- - name 2
+ - Ta-You (Eric) Liu
+ - Chris O'Brien
  - etc
 
 * Describe your topic here
-
+Assembly language programming
  
 * Describe any additional files you've included here 
  
