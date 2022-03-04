@@ -1,5 +1,5 @@
-
-SQL Query for homework
+# Eric Liu
+#SQL Query for homework
 
 #Practice your homework query here.
 #Please save it to your repository.
