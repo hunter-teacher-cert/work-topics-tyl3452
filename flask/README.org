@@ -1,7 +1,7 @@
 * Last Name: Liu
 * First Name: Ta-You (Eric)
 
-Please go to link below where I was editing my flask project.
+Please go to link below where I was editing my flask project. Click on run for the repl.it .
 https://flask-testpy.tliu6.repl.co
 
 Main index page has a list of sub pages.
