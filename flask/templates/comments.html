@@ -1,0 +1,29 @@
+
+<h1>Send your Comments</h1>
+​
+{% if fname != ""%}
+<h1> Welcome {{fname}} Enter your comment</h1>
+{% else %}
+<h1> The one with no name, Enter your comment</h1>
+{% endif %}
+​
+​
+<h1> Class feedback form </h1>
+<form method="POST">
+Enter your first name: 
+<input fname="fname">
+<br>
+Enter your last name: 
+<input lname="lname">
+<br>
+Enter period:
+<input period="period">
+<br>
+Enter comments:
+<input comments="comments">
+<button>SUBMIT</button>
+</form>
+​
+<a href="/">Go Home</a>
+​
+<h1>thank you {{fname}} for your comments</h1>
