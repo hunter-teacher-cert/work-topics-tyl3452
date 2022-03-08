@@ -37,11 +37,11 @@ if __name__ == "__main__":
     sentence = simple_sentence()
     print(sentence)
     # #test print for compound sentence
-    # compound_sentence = compound_sentence()
-    # print(compound_sentence)
-    # #test print for complex sentence
-    # complex_sentence = complex_sentence()
-    # print(complex_sentence)
-    # #test print for compound-complex sentence
-    # compound_complex_sentence = compound_complex_sentence()
-    # print(compound_complex_sentence)
+    compound_sentence = compound_sentence()
+    print(compound_sentence)
+    #test print for complex sentence
+    complex_sentence = complex_sentence()
+    print(complex_sentence)
+    #test print for compound-complex sentence
+    compound_complex_sentence = compound_complex_sentence()
+    print(compound_complex_sentence)
