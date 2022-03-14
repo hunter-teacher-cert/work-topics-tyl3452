@@ -2,9 +2,9 @@
 * First Name: Ta-You (Eric)
 * Partner: Chris O'Brien
 
-Included Files:
-Activity Slides: U0L1 - World's Slowest Computer.pdf
-Answer to the activity: U0L1 - World's Slowest Computer Answers.pdf
-Student Worksheet: World's Slowest Computer Worksheet.xlsx
+*** Included Files:
+- Activity Slides: U0L1 - World's Slowest Computer.pdf
+- Answer to the activity: U0L1 - World's Slowest Computer Answers.pdf
+- Student Worksheet: World's Slowest Computer Worksheet.xlsx
 
 
