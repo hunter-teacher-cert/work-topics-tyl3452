@@ -8,4 +8,5 @@
 - Student Worksheet: World's Slowest Computer Worksheet.xlsx
 - Async assignment: assembly_async.md
 - HW - Complete World's Slowest Computer Level 2 in same google sheet.
+- Class Instructions - Class Instructions.pdf
 
