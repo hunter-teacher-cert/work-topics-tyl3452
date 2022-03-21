@@ -3,7 +3,7 @@
 * Partner: Chris O'Brien
 
 *** Included Files:
-- Activity Slides: U0L1 - World's Slowest Computer.pdf
+- Activity Slides: asm_pres.pptx.pdf
 - Answer to the activity: U0L1 - World's Slowest Computer Answers.pdf
 - Student Worksheet: World's Slowest Computer Worksheet.xlsx
 
