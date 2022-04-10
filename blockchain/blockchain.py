@@ -1,4 +1,7 @@
+# Eric Liu
 #Blockhain project
+# If you want to run in a replit, my link is 
+# https://replit.com/@tliu6/YawningFoolhardySynergy#main.py
 
 # this package is for encryption
 import hashlib
@@ -72,7 +75,7 @@ proof3 = '0000' + str(random.randint(1,21000000))
 eric_liu_chain = Blockchain()
 
 # STEP 2 print the empty chain that has the genesis block with proof =100
-print(eric_liu_chain)
+print(eric_liu_chain.chain)
 
 # STEP 3 initiate the first transation of 1BTC from ___ to ___ by calling the new_transaction() on the object
 eric_liu_chain.new_transaction("Mr A","Mrs B", 1)
@@ -81,16 +84,15 @@ eric_liu_chain.new_transaction("Mr A","Mrs B", 1)
 eric_liu_chain.new_block(proof1)
 
 # STEP 5 Print the chain with the new changes
-print(eric_liu_chain)
+print(eric_liu_chain.chain)
 
 # STEP 6 Repeat steps 3-5 to record two more transactions
 
 eric_liu_chain.new_transaction("Mrs B","Mr C", 1)
 eric_liu_chain.new_block(proof2)
-print(eric_liu_chain)
+print(eric_liu_chain.chain)
 eric_liu_chain.new_transaction("Mr C","Mr D", 1)
 eric_liu_chain.new_block(proof3)
-print(eric_liu_chain)
+print(eric_liu_chain.chain)
 
 #Note:(optional) You may add any formating sybmols to show how the chain looks at each phase
-
