@@ -1,8 +1,8 @@
 * Last Name: Liu
 * First Name: Ta-You (Eric)
 
-# Blockchain
+# Blockchain program code fil
 blockchain.py
 
-If you want to run it in a replit, here is my link
+If you want to run my code in blockchain.py in a replit, here is my link
 https://replit.com/@tliu6/YawningFoolhardySynergy#main.py
