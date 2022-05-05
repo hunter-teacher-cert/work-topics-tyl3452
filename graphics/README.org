@@ -1,5 +1,6 @@
 * Last Name: Liu
 * First Name: Ta-You (Eric)
 
-
+HW - posted on slack - 2d vs 3D effect on gamers' brains, Starcraft
+ASYNC - completed code in graphics.pdf
 
