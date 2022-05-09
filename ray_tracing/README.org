@@ -3,6 +3,8 @@
 
 HW - hunter.js
 Also, access link: 
+https://replit.com/@tliu6/raytracer-js-1#index.html
+https://replit.com/@tliu6/raytracer-js-1#examples/hunter.js
 
 
 
